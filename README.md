@@ -25,3 +25,8 @@ AUC (Area Under the ROC Curve): The AUC score will be calculated to evaluate the
 
 **Conclusion**
 The developed deep learning model, armed with the power of feature engineering and hyperparameter optimization, will provide telecom operators with a valuable tool to identify customers at risk of churn. By proactively engaging with these customers, telecom operators can implement retention strategies to reduce churn rates and enhance customer loyalty.
+
+
+Link to video showing how the model works:
+https://drive.google.com/file/d/1-AZXWzxuvGcHjM0K0uSeLYBgJ_FMRJgh/view?usp=sharing
+
